@@ -1,2 +1,2 @@
 # architectures
-An attempt towards building different NLP model architectures from scratch
+An attempt towards implementing different NLP related model architectures from scratch.
